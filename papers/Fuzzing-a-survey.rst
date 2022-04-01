@@ -54,7 +54,7 @@ Background
 |
 
 
-- taint analysis
+- ``taint analysis``
 
 |
 
@@ -84,9 +84,23 @@ Background
 
 |
 
-- fuzzing
+- ``fuzzing``
 
   - a fuzzing test starts with generating massive normal and abnormal inputs to target applications
+
+|
+
+Fuzzing
+----------
+
+.. image:: https://i.imgur.com/eV6slIp.png
+
+
+
+
+
+
+
 
 
 
