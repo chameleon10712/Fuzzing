@@ -112,10 +112,44 @@ Terms
 - ``TCG``
 
   - Tiny Code Generator
-  - `[GitHub] tcg/README  <https://github.com/qemu/qemu/tree/master/tcg#readme>`_
-  - `[Blog] 2021 QEMU - AFL++ and TCG <http://blog.terrynini.tw/en/2021-QEMU-AFL-and-TCG/>`_
+  - `GitHub - tcg/README  <https://github.com/qemu/qemu/tree/master/tcg#readme>`_
+  - `Blog - 2021 QEMU - AFL++ and TCG <http://blog.terrynini.tw/en/2021-QEMU-AFL-and-TCG/>`_
 
+|
 
+- ``Sanitizer``
+
+  - `ref <https://hpc-wiki.info/hpc/Compiler_Sanitizers>`_
+  - The C/C++ compilers ``Clang/LLVM`` and ``GCC`` support so-called sanitizers
+  - These sanitizers are built into the application code and track the execution at runtime to report execution errors
+  - Current
+  
+    - ``AddressSanitizer`` and ``LeakSanitizer``
+  
+      - ``AddressSanitizer``
+
+        - memory error detector for C/C++
+
+      - ``LeakSanitizer``
+
+        - detects memory leaks
+        - is part of the ``AddressSanitizer`` for many operating systems
+        
+      - They detect following errors
+      
+        - Use after free (dangling pointer dereference)
+        - Heap buffer overflow
+        - Stack buffer overflow
+        - Global buffer overflow
+        - Use after return
+        - Use after scope
+        - Initialization order bugs
+        - Memory leaks
+    
+    - ``ThreadSanitizer``
+ 
+
+  
 
 
 
