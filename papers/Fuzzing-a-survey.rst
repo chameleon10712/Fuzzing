@@ -106,6 +106,18 @@ Working process of fuzzing
 
 
 
+Terms
+--------
+
+- ``TCG``
+
+  - Tiny Code Generator
+  - `tcg/README | GitHub  <https://github.com/qemu/qemu/tree/master/tcg#readme>`_
+  - `2021::QEMU::AFL++ and TCG | Blog <http://blog.terrynini.tw/en/2021-QEMU-AFL-and-TCG/>`_
+
+
+
+
 
 
 
