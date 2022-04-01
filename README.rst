@@ -1,6 +1,8 @@
 Fuzzing
 ==========
 
+Basic
+
 - Regression Testing
 
 - Instrumentation
