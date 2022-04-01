@@ -23,7 +23,7 @@ AFL
 Background
 -------------
 
-- static analysis
+- ``static analysis``
 
   - the analysis of programs that is performed without actually executing the programs
   - usually performed on the source code
@@ -40,10 +40,53 @@ Background
     - high false rate
 |
 
-- dynamic analysis
+- ``dynamic analysis``
+
+  - need to execute the target program in real systems or emulators
+  - pros
+  
+    -  high accuracy
+    
+  - cons
+  
+    - heavy human involvement => low efficiency
+
+|
+
+
 - taint analysis
-- symbolic execution
+
+|
+
+- ``symbolic execution``
+
+  - theoretical
+  
+    - could cover any execution path in a program
+
+  - limitation
+  
+    - path explosion problem
+    
+      - large scale program
+    
+    |
+    
+    - environments interaction
+    
+      - interacts with components out of the symbolic execution environments, consistency problems may arise
+      
+        - sys call
+        - signal handling
+        
+      
+    
+
+|
+
 - fuzzing
+
+  - a fuzzing test starts with generating massive normal and abnormal inputs to target applications
 
 
 
