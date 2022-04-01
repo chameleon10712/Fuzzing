@@ -96,7 +96,12 @@ Fuzzing
 .. image:: https://i.imgur.com/eV6slIp.png
 
 
+|
 
+Working process of fuzzing
++++++++++++++++++++++++++++++
+
+.. image:: https://i.imgur.com/e5nWNAl.png
 
 
 
