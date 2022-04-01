@@ -112,8 +112,8 @@ Terms
 - ``TCG``
 
   - Tiny Code Generator
-  - `GitHub - tcg/README  <https://github.com/qemu/qemu/tree/master/tcg#readme>`_
-  - `Blog - 2021 QEMU - AFL++ and TCG <http://blog.terrynini.tw/en/2021-QEMU-AFL-and-TCG/>`_
+  - `tcg/README  <https://github.com/qemu/qemu/tree/master/tcg#readme>`_
+  - `ref <http://blog.terrynini.tw/en/2021-QEMU-AFL-and-TCG/>`_
 
 |
 
