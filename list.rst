@@ -9,11 +9,9 @@ CMU 17-355/17-665/17-819 Program Analysis
 
 MIT 6.858: Computer Systems Security
 
+- `Course Schedule <https://css.csail.mit.edu/6.858/2020/>`_
+
 - `Spring 2020 Lecture 10: Symbolic execution - YouTube <https://www.youtube.com/watch?v=-t85LW_nwck>`_
-
-
-
-
 
 
 
