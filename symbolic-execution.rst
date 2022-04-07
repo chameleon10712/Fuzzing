@@ -6,18 +6,11 @@ Symbolic Execution
 - `符號執行技術總結（A Brief Summary of Symbol Execution） - Blog <https://blog.csdn.net/wcventure/article/details/86773290>`_
 - `A bibliography of papers related to symbolic execution - GitHub <https://github.com/saswatanand/symexbib>`_
 
-|
 
-- `Lecture Notes: Symbolic Execution - MIT <https://www.cs.cmu.edu/~aldrich/courses/17-355-18sp/notes/notes14-symbolic-execution.pdf>`_
-
-|
 
 |
 
 .. image:: https://img-blog.csdnimg.cn/20190207220950618.png
-
-
-
 
 
 
