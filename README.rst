@@ -18,11 +18,7 @@ Basic
 
 - Sanitizers
 
-|
 
-Course
-
-- `MIT 6.858: Computer Systems Security <https://css.csail.mit.edu/6.858/2020/>`_
 
 
 
