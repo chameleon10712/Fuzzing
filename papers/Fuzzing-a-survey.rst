@@ -210,12 +210,13 @@ Types of fuzzers
 - mutation based
 - generation based
 
-  - knowledge of program input is required
-
 |
 
 Generation Based Fuzzers
 +++++++++++++++++++++++++++++
+
+
+- knowledge of program input is required
 
 - File Format Fuzzing
 
@@ -234,17 +235,55 @@ Mutation Based Fuzzers
 - more applicable
 - widely used by state-of-the-art fuzzers
 
+|
 
-
+- A set of valid initial inputs are required
+- Testcases are generated through the mutation of initial inputs and testcases generated during the fuzzing process
 
 |
 
 Comparison
-++++++++++++++++++++
+############
 
 .. raw:: html
 
-    <img src="https://i.imgur.com/9Sv2Ivx.png" width="600px">
+    <img src="https://i.imgur.com/9Sv2Ivx.png" width="450px">
+
+
+|
+
+|
+
+White, Gray, Black Box Fuzzers
++++++++++++++++++++++++++++++++++
+
+
+With respect to the dependence on program source code and the degree of program analysis, fuzzers could be classified as white box, gray box and black box.
+
+- white box
+
+  - assumed to have access to the source code of programs
+  - more information could be collected through analysis on source code and how testcases affect the program running state
+
+- gray box
+
+  - works without source code
+  - gain the internal information of target programs through program analysis
+
+- black box
+
+  - without any knowledge on target program internals
+
+
+Common Fuzzers
+################
+
+.. raw:: html
+
+    <img src="https://i.imgur.com/n6qxcjC.png" width="450px">
+
+
+
 
 |
 
