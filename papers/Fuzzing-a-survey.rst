@@ -51,8 +51,12 @@ Background
     -  high accuracy
     
   - cons
-  
-    - heavy human involvement => low efficiency
+
+    - debugging, analyzing and running of the target programs in dynamic analysis cause a heavy human involvement
+    
+      - low efficiency
+      
+    - slow speed, low efficiency, high requirements on the technical level of testers, poor scalability, and is difficult to carry out large-scale testing.
 
 |
 
@@ -104,10 +108,26 @@ Fuzzing
 Working process of fuzzing
 +++++++++++++++++++++++++++++
 
+4 main stages
+
+- the testcase generation stage
+- testcase running stage
+- program execution state monitoring
+- analysis of exceptions.
+
+
+
 .. image:: https://i.imgur.com/e5nWNAl.png
 
 
 
+- A fuzzing test starts from the generation of a bunch of program inputs, i.e., testcases.
+- The quality of generated testcases directly effects the test effects.
+
+
+
+
+|
 
 Terms
 --------
