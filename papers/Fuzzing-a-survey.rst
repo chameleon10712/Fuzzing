@@ -239,6 +239,9 @@ Mutation Based Fuzzers
 
 |
 
+Comparison
+++++++++++++++++++++
+
 .. raw:: html
 
     <img src="https://i.imgur.com/9Sv2Ivx.png" width="600px">
