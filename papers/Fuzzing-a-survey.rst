@@ -335,6 +335,20 @@ generation
 
 |
 
+Key challenges in fuzzing
+-----------------------------
+
+Mutation based generation
+
+- Question:  (1) where to mutate  (2) how to mutate
+
+
+
+
+
+
+|
+
 Terms
 --------
 
