@@ -343,6 +343,14 @@ Mutation based generation
 - Question:  (1) where to mutate  (2) how to mutate
 
 
+|
+
+
+Coverage-based fuzzing
+--------------------------
+
+- program instrumentation
+- AFL
 
 
 
