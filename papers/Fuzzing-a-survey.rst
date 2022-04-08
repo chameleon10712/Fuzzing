@@ -207,13 +207,15 @@ Analyzing Stage
 Types of fuzzers
 ---------------------
 
+Testcases Generation Method
+
 - mutation based
 - generation based
 
 |
 
 Generation Based Fuzzers
-+++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++
 
 
 - knowledge of program input is required
@@ -254,8 +256,8 @@ Comparison
 
 |
 
-White, Gray, Black Box Fuzzers
-+++++++++++++++++++++++++++++++++
+White, Gray, Black Box
++++++++++++++++++++++++++++++
 
 
 With respect to the dependence on program source code and the degree of program analysis, fuzzers could be classified as white box, gray box and black box.
@@ -282,7 +284,53 @@ Common Fuzzers
 
     <img src="https://i.imgur.com/n6qxcjC.png" width="450px">
 
+|
 
+Strategies of exploring the programs
++++++++++++++++++++++++++++++++++++++++
+
+- Directed Fuzzing
+  
+  - aims at generation of testcases that cover target code and target paths of programs
+  - expect a faster test on programs
+
+- Coverage-based Fuzzing
+
+  - aims at generation of testcases that cover as much code of programs as possible
+  -  expect a more thorough test and detect as more bugs as possible
+
+
+- For both directed fuzzers and coverage-based fuzzers, how to extract the information of executed paths is a key problem
+
+|
+
+Smart, Dumb Fuzzers
+++++++++++++++++++++++
+
+Fuzzers could be classified as dumb fuzz and smart
+fuzz according to whether there is a feedback between
+the monitoring of program execution state and testcase
+generation
+
+|
+
+- Smart Fuzzers
+
+  - adjustment the generation of testcases according to the collected information that how testcases affect the program behavior
+  
+    - mutation based fuzzer
+  
+      -  feedback information could be used to determine which part of testcases should be mutated and the way to mutate them
+      
+  - generate better testcases
+    
+    - gain a better efficiency
+  
+
+
+- Dumb Fuzzers
+
+  -  acquires a better testing speed
 
 
 |
