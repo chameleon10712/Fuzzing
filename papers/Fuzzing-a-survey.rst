@@ -119,10 +119,49 @@ Working process of fuzzing
 
 .. image:: https://i.imgur.com/e5nWNAl.png
 
+|
 
+Testcase
++++++++++++
 
 - A fuzzing test starts from the generation of a bunch of program inputs, i.e., testcases.
 - The quality of generated testcases directly effects the test effects.
+
+|
+
+Testcase Generators
++++++++++++++++++++++
+
+- 2 kind of generators are used in state-of-the-art fuzzers
+
+  - generation based generators
+  - mutation based generators
+
+|
+
+Start & Finish
++++++++++++++++++
+
+- Fuzzers automatically start and finish the target program process and drive the testcase handling process of target programs. 
+
+  - predefine the parameters and environment variables
+
+- Fuzzers stops at
+
+  - predefined timeout
+  - program execution hangs or crashes
+
+|
+
+Monitor Execution
++++++++++++++++++++
+
+- monitor on
+
+  - system signals
+  - crashes
+  - other violations
+
 
 
 
