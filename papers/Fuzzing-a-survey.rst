@@ -35,6 +35,7 @@ Background
 
   - pros
   
+    - high detection speed
     - detect hiding bugs
     
   - cons
