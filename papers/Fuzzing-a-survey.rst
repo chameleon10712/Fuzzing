@@ -153,8 +153,8 @@ Start & Finish
 
 |
 
-Monitor Execution
-+++++++++++++++++++
+Monitor Execution State
++++++++++++++++++++++++++++
 
 - monitor on
 
@@ -177,6 +177,34 @@ For violations without intuitive program abnormal behaviors:
   - LeakSanitizer
 
 - When violations are captured, fuzzers store the corresponding testcase for latter replay and analysis
+
+
+|
+
+Analyzing Stage
+++++++++++++++++++
+
+- Analysts try to determine the location and root cause of captured violations
+
+  - help with
+  
+    - debuggers
+  
+      - GDB
+      - windbg
+    
+    - other binary analysis tools
+  
+      - IDA Pro
+      - OllyDbg
+    
+    - binary instrumentation tools
+
+      - Pin
+
+
+
+
 
 
 |
