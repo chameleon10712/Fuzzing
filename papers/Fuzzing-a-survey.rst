@@ -162,8 +162,21 @@ Monitor Execution
   - crashes
   - other violations
 
+|
 
+Capture Violations
++++++++++++++++++++++
 
+For violations without intuitive program abnormal behaviors:
+
+- Tools
+
+  - AddressSanitizer
+  - DataFlowsanitizer
+  - ThreadSanitizer
+  - LeakSanitizer
+
+- When violations are captured, fuzzers store the corresponding testcase for latter replay and analysis
 
 
 |
