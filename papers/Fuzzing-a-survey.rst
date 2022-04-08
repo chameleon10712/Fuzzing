@@ -202,10 +202,46 @@ Analyzing Stage
 
       - Pin
 
+|
+
+Types of fuzzers
+---------------------
+
+- mutation based
+- generation based
+
+  - knowledge of program input is required
+
+|
+
+Generation Based Fuzzers
++++++++++++++++++++++++++++++
+
+- File Format Fuzzing
+
+  - usually a configuration file that predefines the file format is provided
+
+  - testcases are generated according to the configuration file
+
+  - testcases are able to pass the validation of programs more easily and could be more likely to test the deeper code of target programs
+
+|
+
+Mutation Based Fuzzers 
+++++++++++++++++++++++++++
+
+- easy to start
+- more applicable
+- widely used by state-of-the-art fuzzers
 
 
 
 
+|
+
+.. raw:: html
+
+    <img src="https://i.imgur.com/9Sv2Ivx.png" width="600px">
 
 |
 
