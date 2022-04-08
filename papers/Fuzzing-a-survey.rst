@@ -1,6 +1,8 @@
 Fuzzing: a survey
 ======================
 
+`link <https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0002-y.pdf>`_
+
 This paper
 
 - coverage-based fuzzing
