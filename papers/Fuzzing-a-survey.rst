@@ -352,6 +352,10 @@ Coverage-based fuzzing
 - program instrumentation
 - AFL
 
+|
+
+Basic Block
+-----------------
 
 
 
