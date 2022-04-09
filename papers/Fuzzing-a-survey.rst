@@ -357,7 +357,9 @@ Coverage-based fuzzing
 Basic Block
 -----------------
 
+.. raw:: html
 
+    <img src="https://i.imgur.com/56u0wEE.jpg" width="450px">
 
 |
 
