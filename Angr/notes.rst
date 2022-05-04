@@ -21,5 +21,16 @@ CFG
   - dynamic CFG (CFGEmulated)
 
 
+    .. code:: py
+
+      >>> import angr
+      # load your project
+      >>> p = angr.Project('/bin/true', load_options={'auto_load_libs': False})
+
+      # Generate a static CFG
+      >>> cfg = p.analyses.CFGFast()
+
+      # generate a dynamic CFG
+      >>> cfg = p.analyses.CFGEmulated(keep_state=True)
 
 
