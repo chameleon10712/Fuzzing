@@ -33,4 +33,11 @@ CFG
       # generate a dynamic CFG
       >>> cfg = p.analyses.CFGEmulated(keep_state=True)
 
+|
+
+Shared Libraries
+--------------------
+
+The CFG analysis does not distinguish between code from different binary objects. This means that by default, it will try to analyze control flow through loaded shared libraries. This is almost never intended behavior, since this will extend the analysis time to several days, probably. To load a binary without shared libraries, add the following keyword argument to the ``Project`` constructor: ``load_options={'auto_load_libs': False}``
+
 
