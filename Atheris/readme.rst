@@ -1,8 +1,9 @@
 Atheris
 ==========
 
-- `Atheris Github <https://github.com/google/atheris>`_
+- `[Github] google/atheris <https://github.com/google/atheris>`_
 
+|
 
 Installation
 ---------------
