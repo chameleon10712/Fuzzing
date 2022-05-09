@@ -32,7 +32,7 @@ Building from Source
 Example
 ------------
 
-- `ref <https://github.com/Geekfest-2021-Hackathon/chaos-engineering>`_
+- `[GitHub] Geekfest-2021-Hackathon/chaos-engineering <https://github.com/Geekfest-2021-Hackathon/chaos-engineering>`_
 
 
 ``atheris_str.py``
