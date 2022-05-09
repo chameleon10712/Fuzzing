@@ -29,6 +29,37 @@ Building from Source
 
 |
 
+Command
+------------
+
+With example file
+
+- sample/atheris_1.py
+- sample/ahteris_str.py
+- sample/ahteris_api.py
+
+|
+
+.. code:: sh
+
+  python3 atheris_1.py
+  #basic testcase
+
+  python3 atheris_str.py
+  #str testcase
+
+  python3 atheris_api.py
+  #FastAPI testcase, require atheris_str.py
+
+
+reference
+
+- `FastAPI <https://fastapi.tiangolo.com/>`_
+
+
+
+|
+
 Example
 ------------
 
