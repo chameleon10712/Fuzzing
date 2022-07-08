@@ -32,5 +32,23 @@ Morest
 - both the bottom-up and top-down approaches
 
 
+|
+
+Operation Dependency Graph
+++++++++++++++++++++++++++++
+
+- OpenAPI specifications
+
+- ODG is a graph 𝐺 = (𝑉 , 𝐸) where 𝑉 is a set of nodes and 𝐸 is a set of directed edges
+
+
+
+
+
+
+
+
+
+
 
 
