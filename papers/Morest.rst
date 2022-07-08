@@ -81,19 +81,17 @@ Related
 
 |
 
- Experiment
- ++++++++++++
+Experiment
+++++++++++++
  
- 
- - `EvoMaster <https://github.com/EMResearch/EvoMaster>`_
- 
-  - EvoMaster (www.evomaster.org) is the first (2016) open-source AI-driven tool that automatically generates system-level test cases for web/enterprise applications.
- 
- 
- - `EvoMaster Benchmark (EMB) <https://github.com/EMResearch/EMB>`_
- 
+- `EvoMaster <https://github.com/EMResearch/EvoMaster>`_
+
+  - EvoMaster is the first (2016) open-source AI-driven tool that automatically generates system-level test cases for web/enterprise applications.
+
+
+- `EvoMaster Benchmark (EMB) <https://github.com/EMResearch/EMB>`_
+
   - EvoMaster Benchmark (EMB): a set of web/enterprise applications for scientific research in Software Engineering.
-    EMB collected several different systems, in different programming languages, like Java, Kotlin, JavaScript and C#. In this documentation, EMB will refer to these projects as System Under Test (SUT). Currently, the SUTs are either REST or GraphQL APIs.
 
 
  
