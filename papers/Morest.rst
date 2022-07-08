@@ -78,6 +78,9 @@ Related
 
 - `neo4j - Link Prediction with GDSL and scikit-learn <https://neo4j.com/developer/graph-data-science/link-prediction/scikit-learn/>`_
 
+|
+
+- Property Graph Schema
 
 |
 
