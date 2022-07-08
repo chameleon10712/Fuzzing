@@ -52,6 +52,7 @@ Operation Dependency Graph
 property graph
 +++++++++++++++++
 
+|
 
 .. image:: https://docs.oracle.com/en/database/oracle/property-graph/21.3/spgdg/img/two_vertices.png
 
