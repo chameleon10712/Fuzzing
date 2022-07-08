@@ -71,6 +71,13 @@ property graph
 
 |
 
+Related
+
+
+- `neo4j - Graph Modeling <https://neo4j.com/developer/guide-data-modeling/>`_
+
+- `neo4j - Link Prediction with GDSL and scikit-learn <https://neo4j.com/developer/graph-data-science/link-prediction/scikit-learn/>`_
+
 
 
 
