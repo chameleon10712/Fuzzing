@@ -63,8 +63,9 @@ property graph
   𝜆 : 𝐸 → Σ is an edge labeling function assigning a label from the alphabet Σ to each edge 
   and 𝜇 : (𝑉 ∪ 𝐸) × 𝐾 → 𝑆 is a function assigning key(from K)-value(from S) pairs of properties to the edges and nodes.
 
+|
 
-
+.. image:: https://docs.oracle.com/en/database/oracle/property-graph/21.3/spgdg/img/two_vertices.png
 
 
 
