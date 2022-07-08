@@ -52,6 +52,11 @@ Operation Dependency Graph
 property graph
 +++++++++++++++++
 
+
+.. image:: https://docs.oracle.com/en/database/oracle/property-graph/21.3/spgdg/img/two_vertices.png
+
+|
+
 .. code::
 
   Definition 1 (Property Graph). 
@@ -64,9 +69,6 @@ property graph
   and 𝜇 : (𝑉 ∪ 𝐸) × 𝐾 → 𝑆 is a function assigning key(from K)-value(from S) pairs of properties to the edges and nodes.
 
 |
-
-.. image:: https://docs.oracle.com/en/database/oracle/property-graph/21.3/spgdg/img/two_vertices.png
-
 
 
 
