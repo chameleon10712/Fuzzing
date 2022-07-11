@@ -1,7 +1,9 @@
 Morest: Model-based RESTful API Testing with Execution Feedback
 ===================================================================
 
-`paper <https://arxiv.org/pdf/2204.12148.pdf>`_
+- `paper <https://arxiv.org/pdf/2204.12148.pdf>`_
+- `website <https://sites.google.com/view/restful-morest/home>`_
+
 
 |
 
