@@ -87,6 +87,8 @@ property graph
 
 .. image:: https://i.imgur.com/si1QAaY.png
 
+
+
 |
 
 Related
@@ -95,6 +97,13 @@ Related
 - `neo4j - Graph Modeling <https://neo4j.com/developer/guide-data-modeling/>`_
 
 - `neo4j - Link Prediction with GDSL and scikit-learn <https://neo4j.com/developer/graph-data-science/link-prediction/scikit-learn/>`_
+
+- `Graph Databse <https://www.youtube.com/watch?v=GekQqFZm7mA>`_
+
+|
+
+.. image:: https://i.imgur.com/s0LrLwf.png
+
 
 |
 
