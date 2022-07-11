@@ -60,9 +60,17 @@ OpenAPI
 OpenAPI Specification (formerly Swagger Specification) is an API description format for REST APIs. 
 An OpenAPI file allows you to describe your entire API.
 
+endpoints
+
 - endpoints (``/users``)
 - operations on each endpoint (``GET /users``, ``POST /users``)
 
+|
+
+schema object
+
+- `Swagger - Data Models (Schemas) <https://swagger.io/docs/specification/data-models/>`_
+- OpenAPI 3.0 data types are based on an extended subset `JSON Schema Specification Wright Draft 00 <https://json-schema.org/>`_. The data types are described using a `Schema object <https://github.com/OAI/OpenAPI-Specification/blob/main/versions/3.0.3.md#schemaObject>`_
 
 |
 
