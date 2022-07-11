@@ -52,6 +52,17 @@ Operation Dependency Graph
 
 .. image:: https://i.imgur.com/ZLendCp.png
 
+|
+
+OpenAPI
+++++++++++
+
+OpenAPI Specification (formerly Swagger Specification) is an API description format for REST APIs. 
+An OpenAPI file allows you to describe your entire API.
+
+- endpoints (``/users``)
+- operations on each endpoint (``GET /users``, ``POST /users``)
+
 
 |
 
