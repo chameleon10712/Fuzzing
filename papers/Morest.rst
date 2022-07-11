@@ -1,6 +1,10 @@
 Morest: Model-based RESTful API Testing with Execution Feedback
 ===================================================================
 
+`paper <https://arxiv.org/pdf/2204.12148.pdf>`_
+
+|
+
 - OpenAPI
   - Swagger
   
