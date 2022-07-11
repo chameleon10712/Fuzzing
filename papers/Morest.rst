@@ -89,25 +89,7 @@ property graph
 
 
 
-|
 
-Related
-
-
-- `neo4j - Graph Modeling <https://neo4j.com/developer/guide-data-modeling/>`_
-
-- `neo4j - Link Prediction with GDSL and scikit-learn <https://neo4j.com/developer/graph-data-science/link-prediction/scikit-learn/>`_
-
-- `Graph Databases Will Change Your Freakin' Life (Best Intro Into Graph Databases) <https://www.youtube.com/watch?v=GekQqFZm7mA>`_
-
-|
-
-.. image:: https://i.imgur.com/s0LrLwf.png
-
-
-|
-
-- Property Graph Schema
 
 |
 
@@ -124,6 +106,26 @@ Experiment
   - EvoMaster Benchmark (EMB): a set of web/enterprise applications for scientific research in Software Engineering.
 
 
+|
+
+Related
+----------
+
+
+- `neo4j - Graph Modeling <https://neo4j.com/developer/guide-data-modeling/>`_
+
+- `neo4j - Link Prediction with GDSL and scikit-learn <https://neo4j.com/developer/graph-data-science/link-prediction/scikit-learn/>`_
+
+- `Graph Databases Will Change Your Freakin' Life (Best Intro Into Graph Databases) <https://www.youtube.com/watch?v=GekQqFZm7mA>`_
+
+|
+
+.. image:: https://i.imgur.com/s0LrLwf.png
+
+
+|
+
+- Property Graph Schema
 
  
  
