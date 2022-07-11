@@ -98,7 +98,7 @@ Related
 
 - `neo4j - Link Prediction with GDSL and scikit-learn <https://neo4j.com/developer/graph-data-science/link-prediction/scikit-learn/>`_
 
-- `Graph Databse <https://www.youtube.com/watch?v=GekQqFZm7mA>`_
+- `Graph Databases Will Change Your Freakin' Life (Best Intro Into Graph Databases) <https://www.youtube.com/watch?v=GekQqFZm7mA>`_
 
 |
 
