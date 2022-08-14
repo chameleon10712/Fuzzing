@@ -1,15 +1,17 @@
 Restler
 ==========
 
+|
+
 Intelligent REST API Data Fuzzing
-------------------------------------
+====================================
 
 - `paper <https://patricegodefroid.github.io/public_psfiles/fse2020.pdf>`_
 
 |
 
 Value Rendering Barrier
-+++++++++++++++++++++++++
+--------------------------
 
 - Lack of **client-specific information**, such as subscription ID and resource group name.
 
