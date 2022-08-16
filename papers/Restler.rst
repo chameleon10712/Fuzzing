@@ -8,6 +8,8 @@ Intelligent REST API Data Fuzzing
 
 - `paper <https://patricegodefroid.github.io/public_psfiles/fse2020.pdf>`_
 
+- intelligently generate data payloads embedded in REST API requests to find data processing bugs in cloud services.
+
 |
 
 Value Rendering Barrier
