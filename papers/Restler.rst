@@ -1,6 +1,12 @@
 Restler
 ==========
 
+- infers producer-consumer dependencies among request types from the Swagger specification
+
+|
+
+.. image:: https://raw.githubusercontent.com/microsoft/restler-fuzzer/main/docs/user-guide/RESTler-arch.png
+
 |
 
 Intelligent REST API Data Fuzzing
