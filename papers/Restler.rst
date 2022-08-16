@@ -9,6 +9,15 @@ Restler
 
 |
 
+Differential Regression Testing for REST APIs
+===============================================
+
+- Regression Testing
+  
+  - Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change. If not, that would be called a regression.
+
+|
+
 Intelligent REST API Data Fuzzing
 ====================================
 
