@@ -15,6 +15,12 @@ RDF
 
 - Resource Description Framework
 - RDF is a language for modeling data in binary relations. Relations are expressed in statements composed of a subject, object and a predicate (relationship) between them. These statements combine to form a directed, labeled graph (DLG).
+
 |
+
+SPARQL
+---------
+
+- `What is SPARQL? <https://www.ontotext.com/knowledgehub/fundamentals/what-is-sparql/>`_
 
 
