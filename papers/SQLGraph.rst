@@ -30,3 +30,12 @@ SPARQL
 - `What is SPARQL? <https://www.ontotext.com/knowledgehub/fundamentals/what-is-sparql/>`_
 
 
+|
+
+Gremlin
+---------
+
+Gremlin is a graph traversal language and virtual machine developed by Apache TinkerPop of the Apache Software Foundation. Gremlin works for both OLTP-based graph databases as well as OLAP-based graph processors. Gremlin's automata and functional language foundation enable Gremlin to naturally support: imperative and declarative querying; host language agnosticism; user-defined domain specific languages; an extensible compiler/optimizer, single- and multi-machine execution models; hybrid depth- and breadth-first evaluation with Turing Completeness.
+
+|
+
