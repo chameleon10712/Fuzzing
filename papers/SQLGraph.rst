@@ -21,6 +21,12 @@ RDF
 SPARQL
 ---------
 
+|
+
+.. image:: https://www.ontotext.com/wp-content/uploads/2016/10/John-has-son-X-U-John-has-daughter-Y.png
+
+|
+
 - `What is SPARQL? <https://www.ontotext.com/knowledgehub/fundamentals/what-is-sparql/>`_
 
 
