@@ -39,8 +39,20 @@ Gremlin is a graph traversal language and virtual machine developed by Apache Ti
 
 |
 
+.. image:: https://tinkerpop.apache.org/docs/current/images/modern-edge-1-to-3-4-gremlin.png
+
+|
+
+|
 
 - `Gremlin Getting Started | Apache TinkerPop <https://tinkerpop.apache.org/docs/current/tutorials/getting-started/>`_
 
 
 |
+
+TinkerPop
++++++++++++
+
+|
+
+.. image:: https://tinkerpop.apache.org/docs/current/images/provider-integration.png
