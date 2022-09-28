@@ -9,7 +9,7 @@ my-fuzz
 
   - `getkin / kin-openapi <https://github.com/getkin/kin-openapi>`_
 
-    - A Go project for handling OpenAPI files. We target the latest OpenAPI version (currently 3), but the project contains support for older OpenAPI versions too.
+    - A Go project for handling OpenAPI files. Target the latest OpenAPI version (currently 3), but the project contains support for older OpenAPI versions too.
 
 
 
